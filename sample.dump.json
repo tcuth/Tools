@@ -1,0 +1,487 @@
+x{
+	"TOTAL_TIME": 12.38393783569336,
+	"address_line1": "123 MAIN ST",
+	"address_line2": "#523",
+	"admin_results": [
+		{
+			"actioncode_id": [
+				1
+			],
+			"address_cnt": 0,
+			"breach_date": "20170101_00:00:00.000000",
+			"breach_description": "acme test breach",
+			"breach_id": "617fda93-8aef-40c3-bb5c-2b15a8021f9c",
+			"breach_name": "acme",
+			"breach_type": 1,
+			"email_cnt": 160000000,
+			"enabled": true,
+			"fraud_hits": [
+				{
+					"cnt": 0,
+					"time_periods": [
+						{
+							"cnt": 0,
+							"days": 30
+						},
+						{
+							"cnt": 0,
+							"days": 90
+						},
+						{
+							"cnt": 0,
+							"days": 365
+						}
+					],
+					"type": 2
+				},
+				{
+					"cnt": 0,
+					"time_periods": [
+						{
+							"cnt": 0,
+							"days": 30
+						},
+						{
+							"cnt": 0,
+							"days": 90
+						},
+						{
+							"cnt": 0,
+							"days": 365
+						}
+					],
+					"type": 3
+				},
+				{
+					"cnt": 0,
+					"time_periods": [
+						{
+							"cnt": 0,
+							"days": 30
+						},
+						{
+							"cnt": 0,
+							"days": 90
+						},
+						{
+							"cnt": 0,
+							"days": 365
+						}
+					],
+					"type": 1
+				},
+				{
+					"cnt": 0,
+					"time_periods": [
+						{
+							"cnt": 0,
+							"days": 30
+						},
+						{
+							"cnt": 0,
+							"days": 90
+						},
+						{
+							"cnt": 0,
+							"days": 365
+						}
+					],
+					"type": 0
+				}
+			],
+			"fraudtype_id": [
+				1
+			],
+			"id": 1,
+			"name_cnt": 0,
+			"phone_cnt": 0,
+			"piitype_id": [
+				1
+			],
+			"risklevel_id": 2,
+			"salecode_id": 2,
+			"ssn_cnt": 0
+		},
+		{
+			"actioncode_id": [
+				1
+			],
+			"address_cnt": 0,
+			"breach_date": "20160601_00:00:00.000000",
+			"breach_description": "beta test breach",
+			"breach_id": "d8d66641-a144-463e-b2e0-2d6b19c3004e",
+			"breach_name": "beta",
+			"breach_type": 1,
+			"email_cnt": 2300000,
+			"enabled": true,
+			"fraud_hits": [
+				{
+					"cnt": 0,
+					"time_periods": [
+						{
+							"cnt": 0,
+							"days": 30
+						},
+						{
+							"cnt": 0,
+							"days": 90
+						},
+						{
+							"cnt": 0,
+							"days": 365
+						}
+					],
+					"type": 2
+				},
+				{
+					"cnt": 0,
+					"time_periods": [
+						{
+							"cnt": 0,
+							"days": 30
+						},
+						{
+							"cnt": 0,
+							"days": 90
+						},
+						{
+							"cnt": 0,
+							"days": 365
+						}
+					],
+					"type": 3
+				},
+				{
+					"cnt": 0,
+					"time_periods": [
+						{
+							"cnt": 0,
+							"days": 30
+						},
+						{
+							"cnt": 0,
+							"days": 90
+						},
+						{
+							"cnt": 0,
+							"days": 365
+						}
+					],
+					"type": 1
+				},
+				{
+					"cnt": 0,
+					"time_periods": [
+						{
+							"cnt": 0,
+							"days": 30
+						},
+						{
+							"cnt": 0,
+							"days": 90
+						},
+						{
+							"cnt": 0,
+							"days": 365
+						}
+					],
+					"type": 0
+				}
+			],
+			"fraudtype_id": [
+				1
+			],
+			"id": 2,
+			"name_cnt": 0,
+			"phone_cnt": 0,
+			"piitype_id": [
+				2
+			],
+			"risklevel_id": 2,
+			"salecode_id": 2,
+			"ssn_cnt": 0
+		}
+	],
+	"application_date": "2017-03-20 00:00:00",
+	"breachFeatures_TIMER": 0.03504753112792969,
+	"breach_response_code": 200,
+	"breach_types_1_10000_cnt": 2,
+	"breach_types_1_1095_cnt": 2,
+	"breach_types_1_365_cnt": 2,
+	"breach_types_1_90_cnt": 1,
+	"breached_data_retrieval_TIMER": 7.795095443725586,
+	"breached_results": [
+		{
+			"actioncode_id": [
+				1
+			],
+			"address_cnt": 0,
+			"breach_date": "20170101_00:00:00.000000",
+			"breach_description": "acme test breach",
+			"breach_id": "617fda93-8aef-40c3-bb5c-2b15a8021f9c",
+			"breach_name": "acme",
+			"breach_type": 1,
+			"email_cnt": 160000000,
+			"enabled": true,
+			"fraud_hits": [
+				{
+					"cnt": 0,
+					"time_periods": [
+						{
+							"cnt": 0,
+							"days": 30
+						},
+						{
+							"cnt": 0,
+							"days": 90
+						},
+						{
+							"cnt": 0,
+							"days": 365
+						}
+					],
+					"type": 2
+				},
+				{
+					"cnt": 0,
+					"time_periods": [
+						{
+							"cnt": 0,
+							"days": 30
+						},
+						{
+							"cnt": 0,
+							"days": 90
+						},
+						{
+							"cnt": 0,
+							"days": 365
+						}
+					],
+					"type": 3
+				},
+				{
+					"cnt": 0,
+					"time_periods": [
+						{
+							"cnt": 0,
+							"days": 30
+						},
+						{
+							"cnt": 0,
+							"days": 90
+						},
+						{
+							"cnt": 0,
+							"days": 365
+						}
+					],
+					"type": 1
+				},
+				{
+					"cnt": 0,
+					"time_periods": [
+						{
+							"cnt": 0,
+							"days": 30
+						},
+						{
+							"cnt": 0,
+							"days": 90
+						},
+						{
+							"cnt": 0,
+							"days": 365
+						}
+					],
+					"type": 0
+				}
+			],
+			"fraudtype_id": [
+				1
+			],
+			"id": 1,
+			"name_cnt": 0,
+			"phone_cnt": 0,
+			"piitype_id": [
+				1
+			],
+			"risklevel_id": 2,
+			"salecode_id": 2,
+			"ssn_cnt": 0
+		},
+		{
+			"actioncode_id": [
+				1
+			],
+			"address_cnt": 0,
+			"breach_date": "20160601_00:00:00.000000",
+			"breach_description": "beta test breach",
+			"breach_id": "d8d66641-a144-463e-b2e0-2d6b19c3004e",
+			"breach_name": "beta",
+			"breach_type": 1,
+			"email_cnt": 2300000,
+			"enabled": true,
+			"fraud_hits": [
+				{
+					"cnt": 0,
+					"time_periods": [
+						{
+							"cnt": 0,
+							"days": 30
+						},
+						{
+							"cnt": 0,
+							"days": 90
+						},
+						{
+							"cnt": 0,
+							"days": 365
+						}
+					],
+					"type": 2
+				},
+				{
+					"cnt": 0,
+					"time_periods": [
+						{
+							"cnt": 0,
+							"days": 30
+						},
+						{
+							"cnt": 0,
+							"days": 90
+						},
+						{
+							"cnt": 0,
+							"days": 365
+						}
+					],
+					"type": 3
+				},
+				{
+					"cnt": 0,
+					"time_periods": [
+						{
+							"cnt": 0,
+							"days": 30
+						},
+						{
+							"cnt": 0,
+							"days": 90
+						},
+						{
+							"cnt": 0,
+							"days": 365
+						}
+					],
+					"type": 1
+				},
+				{
+					"cnt": 0,
+					"time_periods": [
+						{
+							"cnt": 0,
+							"days": 30
+						},
+						{
+							"cnt": 0,
+							"days": 90
+						},
+						{
+							"cnt": 0,
+							"days": 365
+						}
+					],
+					"type": 0
+				}
+			],
+			"fraudtype_id": [
+				1
+			],
+			"id": 2,
+			"name_cnt": 0,
+			"phone_cnt": 0,
+			"piitype_id": [
+				2
+			],
+			"risklevel_id": 2,
+			"salecode_id": 2,
+			"ssn_cnt": 0
+		}
+	],
+	"breaches": [
+		null,
+		null
+	],
+	"breaches_10000_cnt": 2,
+	"breaches_1095_cnt": 2,
+	"breaches_365_cnt": 2,
+	"breaches_90_cnt": 1,
+	"breaches_matched": 2,
+	"copyToOutputAttributes_TIMER": 0.0050067901611328125,
+	"data_node_retrieval_TIMER": 3.748178482055664,
+	"days_since_1_breach_type": -1,
+	"days_since_1_pii_type": 78,
+	"days_since_2_pii_type": 292,
+	"days_since_3_pii_type": -1,
+	"days_since_latest_breach": 78,
+	"days_since_latest_pw_exposure": 78,
+	"dn_response_code": 200,
+	"dn_results": {
+		"matches": [
+			{
+				"breach_id": "d8d66641-a144-463e-b2e0-2d6b19c3004e",
+				"element_pin": "1b2c9b9d-6ebb-4fba-873c-342eb1fae7ae",
+				"match_type": 2
+			},
+			{
+				"breach_id": "617fda93-8aef-40c3-bb5c-2b15a8021f9c",
+				"element_pin": "21466934-963e-45ba-9738-8edb3c1d69aa",
+				"match_type": 2
+			}
+		],
+		"response_time": 1,
+		"type": "email"
+	},
+	"dob": "1920-01-01",
+	"email": "GBONIN@GMAIL.COM",
+	"first_name": "GREGORIUS",
+	"last_name": "BONIN",
+	"latest_pw_exposure_type": "hashed",
+	"middle_initial": "R",
+	"obsDate": "20170320_00:00:00.000000",
+	"phone": "5121234567",
+	"pii_types_1_10000_cnt": 1,
+	"pii_types_1_1095_cnt": 1,
+	"pii_types_1_365_cnt": 1,
+	"pii_types_1_90_cnt": 1,
+	"pii_types_2_10000_cnt": 1,
+	"pii_types_2_1095_cnt": 1,
+	"pii_types_2_365_cnt": 1,
+	"pii_types_2_90_cnt": 0,
+	"pii_types_3_10000_cnt": 0,
+	"pii_types_3_1095_cnt": 0,
+	"pii_types_3_365_cnt": 0,
+	"pii_types_3_90_cnt": 0,
+	"record_obsDateMapper_TIMER": 0.04506111145019531,
+	"request_id": " 4",
+	"risk_level": "high",
+	"risk_score": 700,
+	"router_results": [
+		{
+			"breach_id": "d8d66641-a144-463e-b2e0-2d6b19c3004e",
+			"element_pin": "1b2c9b9d-6ebb-4fba-873c-342eb1fae7ae",
+			"match_type": 2
+		},
+		{
+			"breach_id": "617fda93-8aef-40c3-bb5c-2b15a8021f9c",
+			"element_pin": "21466934-963e-45ba-9738-8edb3c1d69aa",
+			"match_type": 2
+		}
+	],
+	"score_TIMER": 0.6859302520751953,
+	"ssn": "333333333",
+	"suffix": "III",
+	"zip5": "78746"
+}

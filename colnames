@@ -1,0 +1,13 @@
+#!/bin/bash
+
+# Print numbererd list of column names from tab delimited file.
+
+if [[ "$#" -ne 2 ]]; then
+	echo -e "\nUsage: ./colnames.sh filename separator\n"
+	exit
+fi
+
+FILE=$1
+SEP=$2
+
+head -1 $FILE | awk -F $SEP '{ for (i = 1; i <= NF; i++) print i,"\t",$i}'
